@@ -33,7 +33,7 @@ export default function App() {
         <h2>
           I am highly interested in Web Development and Software Engineering. I
           have experience with Web development frameworks such as Reactjs and
-          Django. I have also made worked on some projects related to web
+          Django. I have also worked on some projects related to web
           development and some of my other interests which can be found on my
           github.
           <br></br>
